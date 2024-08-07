@@ -4,7 +4,7 @@
 
 ::-webkit-scrollbar{
     width: 10px;
-    background: none;
+    background: rgb(201, 255, 201);
 }
 ::-webkit-scrollbar-thumb{
     width: 5px;
